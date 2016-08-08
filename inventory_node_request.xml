@@ -1,0 +1,15 @@
+<Request requestId="2">
+  <Report>
+    <GetPage>
+      <ReportId>inventory_nodes</ReportId>
+      <Start>1</Start>
+      <DeviceFilter>
+        <Customers>
+          <Customer>A1</Customer>
+        </Customers>
+      </DeviceFilter>
+      <PageLength>200</PageLength>
+      <SessionId>8507039</SessionId>
+    </GetPage>
+  </Report>
+</Request>

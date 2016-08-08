@@ -1,0 +1,29 @@
+<Request requestId="1347368832168">
+    <Export>
+        <Start reportId="export_violations">
+            <ExportFormat>html</ExportFormat>
+            <Parameters>
+                <Parameter>
+                    <Name>AuditHandle</Name>
+                    <Value>141</Value>
+                </Parameter>
+                <Parameter>
+                    <Name>PolicyProfileId</Name>
+                    <Value>141</Value>
+                </Parameter>
+                <Parameter>
+                    <Name>ProfileName</Name>
+                    <Value>141</Value>
+                </Parameter>
+            </Parameters>
+            <ColumnSelection>
+                <Column>PolicyName</Column>
+                <Column>SelectedRules</Column>
+                <Column>ComplianceState</Column>
+                <Column>ViolationCount</Column>
+                <Column>InstanceCount</Column>
+                <Column>Severity</Column>
+            </ColumnSelection>
+        </Start>
+    </Export>
+</Request>

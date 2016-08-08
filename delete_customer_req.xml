@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Request requestId="1234">
+   <Manage>
+        <Delete>
+            <CustomerList>
+                <Customer>
+                    <Name>Sample6</Name>
+                    <UnmanageDevices>false</UnmanageDevices>
+                </Customer>
+            </CustomerList>
+        </Delete>
+    </Manage>
+</Request>

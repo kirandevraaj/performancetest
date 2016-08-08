@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Request requestId="12345">
+    <StartAudit>
+        <AuditParameters>
+            <TaskName>Standard_Policy_Audit_45</TaskName>
+            <AuditType>NERC</AuditType>
+            <DeviceList all="true"/>
+        </AuditParameters>
+    </StartAudit>
+</Request>

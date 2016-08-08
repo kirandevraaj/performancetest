@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<Response requestId="1234">
+	
+
+	<Status>
+		<ErrorList>
+			<Error>
+				<ErrorCode>_API_CUSTOMERMGMT_VALIDATION_NAME</ErrorCode>
+				<ErrorMessage>
+<![CDATA[Customer name Sample6 already exist , Please provide valid Customer Name.]]>				</ErrorMessage>
+				<Values>
+					<Value>Sample6</Value>
+				</Values>
+			</Error>
+		</ErrorList>
+	</Status>
+</Response>

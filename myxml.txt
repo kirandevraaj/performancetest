@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Request  requestId="1234">
+    <Manage>
+        <Get>
+            <UserList all="true" start="1" pageLength="5"/>
+        </Get>
+    </Manage>
+</Request>

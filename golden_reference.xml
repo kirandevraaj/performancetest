@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<Response requestId="11111">
+
+
+	<ManagementResponse>
+		<Get>
+			<CustomerList>
+				<Customer>
+					<Name>ganga</Name>
+					<ContactName/>
+					<Phone/>
+					<Key>
+<![CDATA[rO0ABXNyABRqYXZhLnNlY3VyaXR5LktleVJlcL35T7OImqVDAgAETAAJYWxnb3JpdGhtdAASTGph
+dmEvbGFuZy9TdHJpbmc7WwAHZW5jb2RlZHQAAltCTAAGZm9ybWF0cQB+AAFMAAR0eXBldAAbTGph
+dmEvc2VjdXJpdHkvS2V5UmVwJFR5cGU7eHB0AAZERVNlZGV1cgACW0Ks8xf4BghU4AIAAHhwAAAA
+GGhkPliriRUsvJunFpFUs266QHDyZ51iJnQAA1JBV35yABlqYXZhLnNlY3VyaXR5LktleVJlcCRU
+eXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGU0VDUkVU]]>					</Key>
+					<CreatorLogin>Super Administrator (admin)</CreatorLogin>
+					<CreatorName>Super Administrator (admin)</CreatorName>
+					<Id>37</Id>
+					<DeviceCount>6</DeviceCount>
+					<AvailedLicenses>6</AvailedLicenses>
+				</Customer>
+				<Customer>
+					<Name>airtel</Name>
+					<ContactName/>
+					<Phone/>
+					<Key>
+<![CDATA[rO0ABXNyABRqYXZhLnNlY3VyaXR5LktleVJlcL35T7OImqVDAgAETAAJYWxnb3JpdGhtdAASTGph
+dmEvbGFuZy9TdHJpbmc7WwAHZW5jb2RlZHQAAltCTAAGZm9ybWF0cQB+AAFMAAR0eXBldAAbTGph
+dmEvc2VjdXJpdHkvS2V5UmVwJFR5cGU7eHB0AAZERVNlZGV1cgACW0Ks8xf4BghU4AIAAHhwAAAA
+GMEcxJh5q9Z2bqtkxxBUeRUxzk/E5qJidnQAA1JBV35yABlqYXZhLnNlY3VyaXR5LktleVJlcCRU
+eXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGU0VDUkVU]]>					</Key>
+					<CreatorLogin>Super Administrator (admin)</CreatorLogin>
+					<CreatorName>Super Administrator (admin)</CreatorName>
+					<Id>23</Id>
+					<DeviceCount>75</DeviceCount>
+					<AvailedLicenses>75</AvailedLicenses>
+				</Customer>
+				<Customer>
+					<Name>nam</Name>
+					<ContactName/>
+					<Phone/>
+					<Key>
+<![CDATA[rO0ABXNyABRqYXZhLnNlY3VyaXR5LktleVJlcL35T7OImqVDAgAETAAJYWxnb3JpdGhtdAASTGph
+dmEvbGFuZy9TdHJpbmc7WwAHZW5jb2RlZHQAAltCTAAGZm9ybWF0cQB+AAFMAAR0eXBldAAbTGph
+dmEvc2VjdXJpdHkvS2V5UmVwJFR5cGU7eHB0AAZERVNlZGV1cgACW0Ks8xf4BghU4AIAAHhwAAAA
+GDGXOyncE0Z2HyCKZGirRUZruW65/jRwO3QAA1JBV35yABlqYXZhLnNlY3VyaXR5LktleVJlcCRU
+eXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGU0VDUkVU]]>					</Key>
+					<CreatorLogin>Super Administrator (admin)</CreatorLogin>
+					<CreatorName>Super Administrator (admin)</CreatorName>
+					<Id>25</Id>
+					<DeviceCount>5</DeviceCount>
+					<AvailedLicenses>5</AvailedLicenses>
+				</Customer>
+				<Customer>
+					<Name>checkpoint</Name>
+					<ContactName/>
+					<Phone/>
+					<Key>
+<![CDATA[rO0ABXNyABRqYXZhLnNlY3VyaXR5LktleVJlcL35T7OImqVDAgAETAAJYWxnb3JpdGhtdAASTGph
+dmEvbGFuZy9TdHJpbmc7WwAHZW5jb2RlZHQAAltCTAAGZm9ybWF0cQB+AAFMAAR0eXBldAAbTGph
+dmEvc2VjdXJpdHkvS2V5UmVwJFR5cGU7eHB0AAZERVNlZGV1cgACW0Ks8xf4BghU4AIAAHhwAAAA
+GGSwxwhbnrr9jw5tZLbczvHlzuBKJTR/N3QAA1JBV35yABlqYXZhLnNlY3VyaXR5LktleVJlcCRU
+eXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGU0VDUkVU]]>					</Key>
+					<CreatorLogin>Super Administrator (admin)</CreatorLogin>
+					<CreatorName>Super Administrator (admin)</CreatorName>
+					<Id>27</Id>
+					<DeviceCount>2</DeviceCount>
+					<AvailedLicenses>2</AvailedLicenses>
+				</Customer>
+				<Customer>
+					<Name>venkat</Name>
+					<ContactName/>
+					<Phone/>
+					<Key>
+<![CDATA[rO0ABXNyABRqYXZhLnNlY3VyaXR5LktleVJlcL35T7OImqVDAgAETAAJYWxnb3JpdGhtdAASTGph
+dmEvbGFuZy9TdHJpbmc7WwAHZW5jb2RlZHQAAltCTAAGZm9ybWF0cQB+AAFMAAR0eXBldAAbTGph
+dmEvc2VjdXJpdHkvS2V5UmVwJFR5cGU7eHB0AAZERVNlZGV1cgACW0Ks8xf4BghU4AIAAHhwAAAA
+GG1Jzr/qwepGGTuAiWhn5vib8rpU9A7ZzXQAA1JBV35yABlqYXZhLnNlY3VyaXR5LktleVJlcCRU
+eXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGU0VDUkVU]]>					</Key>
+					<CreatorLogin>Super Administrator (admin)</CreatorLogin>
+					<CreatorName>Super Administrator (admin)</CreatorName>
+					<Id>29</Id>
+					<DeviceCount>3</DeviceCount>
+					<AvailedLicenses>3</AvailedLicenses>
+				</Customer>
+				<Customer>
+					<Name>venkat1</Name>
+					<Key>
+<![CDATA[rO0ABXNyABRqYXZhLnNlY3VyaXR5LktleVJlcL35T7OImqVDAgAETAAJYWxnb3JpdGhtdAASTGph
+dmEvbGFuZy9TdHJpbmc7WwAHZW5jb2RlZHQAAltCTAAGZm9ybWF0cQB+AAFMAAR0eXBldAAbTGph
+dmEvc2VjdXJpdHkvS2V5UmVwJFR5cGU7eHB0AAZERVNlZGV1cgACW0Ks8xf4BghU4AIAAHhwAAAA
+GJu6+AduKUU0xPfCOO8aZxyekWTOp0aFunQAA1JBV35yABlqYXZhLnNlY3VyaXR5LktleVJlcCRU
+eXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGU0VDUkVU]]>					</Key>
+					<CreatorLogin>Super Administrator (admin)</CreatorLogin>
+					<CreatorName>Super Administrator (admin)</CreatorName>
+					<Id>31</Id>
+				</Customer>
+			</CustomerList>
+		</Get>
+	</ManagementResponse>
+</Response>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Request requestId="2343">
+  <Manage>
+    <Add>
+      <PolicyProfileList>
+        <PolicyProfile>
+          <ProfileName>performance_policy_profile</ProfileName>
+          <ProfileSchedule>
+            <RunOnConfigChanges>false</RunOnConfigChanges>
+            <RunWhenProfileModified>false</RunWhenProfileModified>
+            <TriggerBeforeConfigChange>false</TriggerBeforeConfigChange>
+            <RunWhenSyslogReceived>false</RunWhenSyslogReceived>
+            <AbortIfNewVios>false</AbortIfNewVios>
+            <JobName>AuditJob</JobName>
+          </ProfileSchedule>
+          <Actions/>
+          <PolicyGroupMapList>
+            <PolicyGroupMap>
+              <PolicyGroupName>performance_policy_group</PolicyGroupName>
+              <DeviceSelection>
+                <Groups>
+                  <Group>A1</Group>
+                  <Group>airtel</Group>
+                  <Group>airtel_airtel.com</Group>
+                </Groups>
+              </DeviceSelection>
+            </PolicyGroupMap>
+          </PolicyGroupMapList>
+        </PolicyProfile>
+      </PolicyProfileList>
+    </Add>
+  </Manage>
+</Request>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Request requestId="44444">
+  <Manage>
+    <Add>
+      <CustomPolicyList>
+        <CustomPolicy id="_performance_custom_policy" xmlns="http://www.parinetworks.com/schemas/1.0">
+          <Title>performance_custom_policy</Title>
+          <VersionSelectorRefs>
+            <VersionSelectorRef>cisco</VersionSelectorRef>
+          </VersionSelectorRefs>
+          <References>
+            <Reference identifier="Custom">
+              <Source>Custom</Source>
+              <Sections>Custom Sections</Sections>
+              <Versions>Custom Versions</Versions>
+            </Reference>
+          </References>
+          <Rules>
+            <Rule identifier="_rule_1">
+              <Title>rule 1</Title>
+              <VersionSelectorRefs>
+                <VersionSelectorRef>cisco</VersionSelectorRef>
+              </VersionSelectorRefs>
+              <RuleType>RAW_CONFIG</RuleType>
+              <Conditions>
+                <Condition>
+                  <Type>RAW_CONFIG</Type>
+                  <ConditionTitle>condition 1</ConditionTitle>
+                  <DisplayString>Configuration must contain the string  'ip default-gateway 192.168.96.97'</DisplayString>
+                  <MatchAction>CONTINUE</MatchAction>
+                  <NonMatchAction>RAISE_AND_CONTINUE</NonMatchAction>
+                  <BlockParams>
+                    <PassCriterion>ALL</PassCriterion>
+                    <RaiseViolationForAllInstances>true</RaiseViolationForAllInstances>
+                  </BlockParams>
+                  <RegexpParams>
+                    <PassCriterion>ALL</PassCriterion>
+                    <RaiseViolationForAllInstances>true</RaiseViolationForAllInstances>
+                  </RegexpParams>
+                  <Severity>3</Severity>
+                  <ViolationMessage>Incorrect Default Gateway !!</ViolationMessage>
+                  <NonMatchViolation>
+                    <Message>Incorrect Default Gateway !!</Message>
+                    <Severity>3</Severity>
+                  </NonMatchViolation>
+                  <Scope>ALL_CONFIG</Scope>
+                  <Operator>CONTAINS</Operator>
+                  <Value>ip default-gateway 192.168.96.97</Value>
+                </Condition>
+              </Conditions>
+            </Rule>
+          </Rules>
+        </CustomPolicy>
+      </CustomPolicyList>
+    </Add>
+  </Manage>
+</Request>

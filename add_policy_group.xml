@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Request requestId="44444" xmlns="http://www.parinetworks.com/api/schemas/1.1">
+  <Manage>
+    <Add>
+      <PolicyGroupList>
+        <PolicyGroup identifier="performance_policy_group">
+          <PolicyGroupProperties>
+            <Title>performance_policy_group</Title>
+            <Description/>
+            <Category>USER_DEFINED</Category>
+          </PolicyGroupProperties>
+          <PolicyList>
+            <Policy identifier="_performance_custom_policy">
+              <RuleList>
+                <Rule identifier="_rule_1"/>
+              </RuleList>
+            </Policy>
+          </PolicyList>
+        </PolicyGroup>
+      </PolicyGroupList>
+    </Add>
+  </Manage>
+</Request>

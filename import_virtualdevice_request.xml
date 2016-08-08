@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Request requestId="1234">
+    <Import>
+        <Devices>
+            <FileName>
+                <![CDATA[ZIP_DATA/NCCM_SIM_1K.zip]]>
+            </FileName>
+            <Customer>A1</Customer>
+            <Format>PCB</Format>
+            <Synchronous>false</Synchronous>
+        </Devices>
+    </Import>
+</Request>
